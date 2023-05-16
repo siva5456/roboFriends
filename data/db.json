@@ -1,0 +1,127 @@
+{
+    "data": {
+        "colors": [
+            {
+                "uniqueColor": "rgb(204,242,160)",
+                "id": 1
+            },
+            {
+                "uniqueColor": "rgb(251,21,218)",
+                "id": 2
+            },
+            {
+                "uniqueColor": "rgb(7,73,199)",
+                "id": 3
+            },
+            {
+                "uniqueColor": "rgb(99,71,72)",
+                "id": 4
+            },
+            {
+                "uniqueColor": "rgb(51,40,18)",
+                "id": 5
+            },
+            {
+                "uniqueColor": "rgb(219,174,226)",
+                "id": 6
+            },
+            {
+                "uniqueColor": "rgb(178,198,112)",
+                "id": 7
+            },
+            {
+                "uniqueColor": "rgb(36,91,34)",
+                "id": 8
+            },
+            {
+                "uniqueColor": "rgb(243,240,84)",
+                "id": 9
+            },
+            {
+                "uniqueColor": "rgb(24,136,219)",
+                "id": 10
+            },
+            {
+                "uniqueColor": "rgb(255,59,107)",
+                "id": 11
+            },
+            {
+                "uniqueColor": "rgb(58,31,94)",
+                "id": 12
+            },
+            {
+                "uniqueColor": "rgb(41,34,50)",
+                "id": 13
+            },
+            {
+                "uniqueColor": "rgb(176,157,2)",
+                "id": 14
+            },
+            {
+                "uniqueColor": "rgb(150,72,7)",
+                "id": 15
+            },
+            {
+                "uniqueColor": "rgb(124,243,214)",
+                "id": 16
+            },
+            {
+                "uniqueColor": "rgb(214,195,152)",
+                "id": 17
+            },
+            {
+                "uniqueColor": "rgb(72,105,52)",
+                "id": 18
+            },
+            {
+                "uniqueColor": "rgb(37,196,72)",
+                "id": 19
+            },
+            {
+                "uniqueColor": "rgb(219,252,144)",
+                "id": 20
+            },
+            {
+                "uniqueColor": "rgb(116,137,8)",
+                "id": 21
+            },
+            {
+                "uniqueColor": "rgb(227,72,186)",
+                "id": 22
+            },
+            {
+                "uniqueColor": "rgb(123,146,143)",
+                "id": 23
+            },
+            {
+                "uniqueColor": "rgb(122,112,148)",
+                "id": 24
+            },
+            {
+                "uniqueColor": "rgb(139,248,170)",
+                "id": 25
+            },
+            {
+                "uniqueColor": "rgb(147,137,112)",
+                "id": 26
+            },
+            {
+                "uniqueColor": "rgb(88,59,223)",
+                "id": 27
+            },
+            {
+                "uniqueColor": "rgb(215,162,199)",
+                "id": 28
+            },
+            {
+                "uniqueColor": "rgb(63,229,39)",
+                "id": 29
+            },
+            {
+                "uniqueColor": "rgb(146,66,128)",
+                "id": 30
+            }
+        ]
+       
+    }
+}
